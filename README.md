@@ -1,2 +1,2 @@
-# GS_utils
-Google Scholar utils
+# Google Scholar (GS) utils
+
